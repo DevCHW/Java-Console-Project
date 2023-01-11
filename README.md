@@ -1,7 +1,8 @@
 
 <h1>Java Console 인사관리 프로그램</h1>
 - 5명과 함께만든 Java 미니 팀프로젝트
-<br>
+- 
+<br><br>
 
 <!-- PROJECT DESCRIPTION -->
 ## 개발기간
