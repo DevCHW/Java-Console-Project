@@ -1,15 +1,10 @@
-# Java-Console-Project
 
-<a name="readme-top"></a>
-
-<div align="center">
-  <h3><b>자바 콘솔기반 인사관리 프로그램</b></h3>
-</div>
+<h1>Java Console 인사관리 프로그램</h1>
+<br>
 
 <!-- PROJECT DESCRIPTION -->
 ## 개발기간
 - 2022.07.27 ~ 2022.08.03 (6일)
-
 <br>
 
 ## 개발환경 <a name="built-with"></a>
@@ -41,7 +36,6 @@
 ### 게시판관리자
 - 사원 이용정지/해제
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
